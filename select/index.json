@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "YURARI",
+  "base_artist": "FES☆TIVE",
+  "createdAt": "2026-02-10T05:23:10.593234Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yurari",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/01_Yurari_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yurari Haru",
+      "artist": "IKU",
+      "has_synced": false,
+      "path": "select/02_Yurari_Haru_IKU.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yurari",
+      "artist": "Rinne",
+      "has_synced": true,
+      "path": "select/03_Yurari_Rinne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hitori Yurari",
+      "artist": "Kanaria feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/04_Hitori_Yurari_Kanaria_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yurari Journal",
+      "artist": "SCHADARAPARR",
+      "has_synced": false,
+      "path": "select/05_Yurari_Journal_SCHADARAPARR.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yurari (ゆらり)",
+      "artist": "Eir Aoi",
+      "has_synced": false,
+      "path": "select/06_Yurari_(ゆらり)_Eir_Aoi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yurari (ゆらり)",
+      "artist": "Aoi Eir （藍井 エイル）",
+      "has_synced": false,
+      "path": "select/07_Yurari_(ゆらり)_Aoi_Eir_(藍井_エイル).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YURARI",
+      "artist": "FES☆TIVE",
+      "has_synced": false,
+      "path": "select/pl_01_YURARI_FES☆TIVE.txt"
+    }
+  ]
+}
